@@ -80,8 +80,6 @@ Analyzes appointment status breakdown, booking channel performance, service-leve
 
 - Online bookings show a wider spread of no-show/reschedule outcomes than Phone bookings, pointing to a gap in the online booking confirmation flow.
 
-Full write-up with all 8 insights and recommendations: [insights-and-recommendations.md](insights-and-recommendations.md)
-
 ## 📁 Repository Structure
 
 ```
@@ -115,6 +113,10 @@ Boots-Opticians-Retail-Analytics/
 ├── insights-and-recommendations.md
 └── README.md
 ```
+
+## About
+
+End-to-end data analytics project analyzing optical retail sales, store and regional performance, appointment behavior, and service-to-sale conversion using Python, SQL Server, and Power BI.
 
 ## About
 
