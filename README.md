@@ -1,78 +1,121 @@
-# Boots Opticians — Optical Retail Sales & Service Analytics
+# Boots Opticians – Optical Retail Sales & Service Analytics
 
-End-to-end analytics project covering sales, appointments, product performance, and service conversion across Boots Opticians' store network — built with Python, SQL Server, and Power BI.
+## 📌 Project Overview
 
-## Project overview
+This project analyzes optical retail sales and appointment data from Boots Opticians to understand sales performance, store and regional trends, product category performance, appointment behavior, and service-to-sale conversion.
 
-**Objective:** Analyze optical retail sales, appointments, service performance, conversion, and demand trends to surface actionable business insights for store operations, product strategy, and appointment management.
+The project follows an end-to-end data analytics workflow using Python, SQL Server, and Power BI.
 
-**Dataset:** 110,000 sales transactions and 55,000 appointments across 122 stores (Jan 2025–Dec 2026), modeled as a star schema with 2 fact tables (Sales, Appointments) and 5 dimension tables (Store, Product, Customer, Service, Date).
+## 🎯 Business Objectives
 
-**Stakeholders:** Store managers, regional managers, and leadership.
+- Analyze sales performance across stores, regions, and product categories
 
-## Tools used
+- Identify factors associated with appointment no-shows and cancellations
 
-| Tool | Purpose |
-|---|---|
-| Excel | Data audit, lookups, multi-condition formulas |
-| Power Query | Data cleaning and transformation pipeline |
-| Python (Pandas, NumPy, Matplotlib) | Exploratory data analysis, outlier detection, statistical testing |
-| SQL Server | Business analysis — joins, CTEs, window functions |
-| Power BI (Data model + DAX) | Star schema modeling, KPI measures, interactive dashboard |
+- Evaluate conversion from appointment to sale across services
 
-## Key insights
+- Analyze discount impact on gross margin
 
-- **Regional performance is uniform, not uneven** — raw revenue looked skewed toward some regions, but once normalized per store, every region performs within a tight £137.8K–£142.9K band. The variance was entirely due to store count, not regional demand.
-- **Conversion is gated by appointment completion, not service type** — all 8 services convert at a near-identical rate (~37%), but only Completed appointments convert at all (48%). The highest-leverage fix is reducing no-shows, cancellations, and reschedules (~22% of all appointments), not promoting specific services.
-- **No-show rates are systemic** — consistent 5.7%–6.5% across every region, meaning fixes (reminders, confirmations, deposits) should be rolled out chain-wide rather than piloted regionally.
-- **A small set of premium SKUs drive outsized high-value revenue** — Prescription Lens and Spectacle Frame alone account for over 70% of total revenue.
+- Measure store and regional performance on a like-for-like (per-store) basis
 
-Full analysis with all 8 insights and recommendations: [insights-and-recommendations.md](insights-and-recommendations.md)
+- Build an interactive dashboard for business-level insights
 
-## Dashboard
+## 🛠️ Tools & Technologies
 
-Three-page interactive Power BI report — Executive Overview, Sales & Product/Store Performance, and Appointments & Service Analytics — covering KPI monitoring, product/store performance, and service conversion analysis.
+- **Python** – Data cleaning, transformation and exploratory analysis
 
-![Executive Overview](screenshots/page1-executive-overview.png)
-![Sales & Product/Store Performance](screenshots/page2-sales-store-performance.png)
-![Appointments & Service Analytics](screenshots/page3-appointments-service.png)
+- **Pandas / NumPy** – Data manipulation and statistical analysis
 
-## Methodology
+- **SQL Server** – Data storage and analytical queries
 
-1. **Data audit** (Excel) — row counts, null checks, duplicate detection, invalid-value scans
-2. **Data cleaning** (Power Query + Python) — deduplication, null handling, type correction
-3. **Exploratory analysis** (Python) — distribution checks, IQR outlier detection, trend analysis, referential integrity validation across merged tables
-4. **Statistics & probability** (Python) — regional demand variability, sampling validation, conditional probability (no-show rate, conversion rate)
-5. **Business analysis** (SQL Server) — joins, CASE WHEN classifications, CTEs, window functions (`LAG`, `RANK`, running totals) for monthly trends and store rankings
-6. **Data modeling** (Power BI) — star schema with validated one-to-many relationships across all fact/dimension pairs
-7. **DAX measures** — Net Revenue, Conversion Rate, No-show Rate, Revenue per Visit, Gross Margin %, and supporting KPIs
-8. **Dashboard build** — 3-page report, consistent theming, zero repeated visual types across pages
-9. **Insights & recommendations** — 8 evidence-based findings, each with a specific business recommendation
+- **Power BI** – Interactive dashboard and visualization
 
-## Key KPIs
+- **DAX** – Measures and calculations
 
-- Net Revenue, Gross Margin %
-- Total Transactions, Average Order Value
-- Appointment Completion Rate, No-show Rate
-- Conversion Rate (Appointment → Sale), Revenue per Visit
+- **Git & GitHub** – Version control and project documentation
 
-## Repository structure
+## 🔄 Project Workflow
+
+Raw Boots Opticians Dataset
+
+↓
+
+Python – Data Cleaning, EDA & Statistical Analysis
+
+↓
+
+SQL Server – Data Storage & Business Analysis
+
+↓
+
+Power BI – Star Schema Modeling & Dashboard Development
+
+↓
+
+Sales, Appointment & Profitability Insights
+
+## 📊 Power BI Dashboard
+
+### Page 1 – Executive Overview
+
+Monitors headline KPIs — Net Revenue, Total Transactions, Conversion Rate, No-show Rate, Gross Margin % — alongside monthly revenue trend, revenue-vs-target progress, and revenue by region.
+
+### Page 2 – Sales & Product/Store Performance
+
+Analyzes top-performing products, revenue by category, store rankings within region, and the relationship between discount level and gross margin.
+
+### Page 3 – Appointments & Service Analytics
+
+Analyzes appointment status breakdown, booking channel performance, service-level conversion rates, and the appointment-to-sale conversion funnel.
+
+## 🔍 Key Insights
+
+- Regional revenue and appointment volume appear uneven at a raw-total level, but normalize almost perfectly once measured per store — the variance is driven by store count, not regional performance.
+
+- Conversion rate is flat across all services (~37%) and is instead gated by appointment completion: only Completed appointments convert (48%), while Cancelled, No-show, and Rescheduled appointments convert at 0%.
+
+- No-show rates are consistent across every region (5.7%–6.5%), indicating a systemic issue best solved with a chain-wide fix rather than a regional one.
+
+- Prescription Lens and Spectacle Frame together account for over 70% of total revenue, with a small set of premium SKUs driving a disproportionate share of high-value transactions.
+
+- Online bookings show a wider spread of no-show/reschedule outcomes than Phone bookings, pointing to a gap in the online booking confirmation flow.
+
+Full write-up with all 8 insights and recommendations: [insights-and-recommendations.md](insights-and-recommendations.md)
+
+## 📁 Repository Structure
 
 ```
-├── README.md
-├── insights-and-recommendations.md
-├── notebooks/
-│   └── eda-analysis.ipynb
-├── sql/
-│   └── analysis-queries.sql
-├── data/
-│   └── (cleaned CSV tables)
-├── dashboard/
+Boots-Opticians-Retail-Analytics/
+
+│
+
+├── Dataset/
+│   ├── Fact_Sales_Clean.csv
+│   ├── Fact_Appointments_Clean.csv
+│   ├── Dim_Store.csv
+│   ├── Dim_Product.csv
+│   ├── Dim_Customer.csv
+│   ├── Dim_Service.csv
+│   └── Dim_Date.csv
+│
+├── Power BI/
 │   └── Boot_Opticians_Dashboard.pbix
-└── screenshots/
-    └── (dashboard page exports)
+│
+├── Python/
+│   └── Boots_Opticians_EDA.ipynb
+│
+├── SQL/
+│   └── Boots_Opticians_Analysis.sql
+│
+├── Screenshots/
+│   ├── Executive Overview.png
+│   ├── Sales & Product-Store Performance.png
+│   └── Appointments & Service Analytics.png
+│
+├── insights-and-recommendations.md
+└── README.md
 ```
 
-## About this project
+## About
 
-Built as a self-driven portfolio project to demonstrate end-to-end analytics skills — from raw data audit through statistical analysis, SQL business logic, dimensional modeling, and interactive dashboard delivery.
+End-to-end data analytics project analyzing optical retail sales, store and regional performance, appointment behavior, and service-to-sale conversion using Python, SQL Server, and Power BI.
