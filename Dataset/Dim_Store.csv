@@ -1,0 +1,123 @@
+Store_ID,Store_Name,City,Region,Store_Type,Store_Size
+S1001,Boots Opticians - London 1001,London,London,High Street,Small
+S1002,Boots Opticians - London 1002,London,London,Retail Park,Medium
+S1003,Boots Opticians - London 1003,London,London,Shopping Centre,Small
+S1004,Boots Opticians - London 1004,London,London,High Street,Small
+S1005,Boots Opticians - London 1005,London,London,High Street,Large
+S1006,Boots Opticians - London 1006,London,London,Retail Park,Small
+S1007,Boots Opticians - London 1007,London,London,Retail Park,Small
+S1008,Boots Opticians - London 1008,London,London,Retail Park,Small
+S1009,Boots Opticians - Brighton 1009,Brighton,South East,Retail Park,Large
+S1010,Boots Opticians - Brighton 1010,Brighton,South East,City Centre,Medium
+S1011,Boots Opticians - Brighton 1011,Brighton,South East,Retail Park,Medium
+S1012,Boots Opticians - Oxford 1012,Oxford,South East,High Street,Small
+S1013,Boots Opticians - Oxford 1013,Oxford,South East,City Centre,Medium
+S1014,Boots Opticians - Oxford 1014,Oxford,South East,Shopping Centre,Small
+S1015,Boots Opticians - Reading 1015,Reading,South East,Retail Park,Medium
+S1016,Boots Opticians - Reading 1016,Reading,South East,Shopping Centre,Large
+S1017,Boots Opticians - Reading 1017,Reading,South East,High Street,Medium
+S1018,Boots Opticians - Guildford 1018,Guildford,South East,City Centre,Large
+S1019,Boots Opticians - Guildford 1019,Guildford,South East,City Centre,Small
+S1020,Boots Opticians - Guildford 1020,Guildford,South East,Shopping Centre,Medium
+S1021,Boots Opticians - Canterbury 1021,Canterbury,South East,High Street,Small
+S1022,Boots Opticians - Canterbury 1022,Canterbury,South East,Retail Park,Medium
+S1023,Boots Opticians - Canterbury 1023,Canterbury,South East,High Street,Small
+S1024,Boots Opticians - Bristol 1024,Bristol,South West,Shopping Centre,Small
+S1025,Boots Opticians - Bristol 1025,Bristol,South West,Retail Park,Small
+S1026,Boots Opticians - Bristol 1026,Bristol,South West,City Centre,Large
+S1027,Boots Opticians - Plymouth 1027,Plymouth,South West,Shopping Centre,Medium
+S1028,Boots Opticians - Plymouth 1028,Plymouth,South West,Shopping Centre,Large
+S1029,Boots Opticians - Plymouth 1029,Plymouth,South West,Retail Park,Large
+S1030,Boots Opticians - Exeter 1030,Exeter,South West,Retail Park,Small
+S1031,Boots Opticians - Exeter 1031,Exeter,South West,City Centre,Small
+S1032,Boots Opticians - Exeter 1032,Exeter,South West,Shopping Centre,Small
+S1033,Boots Opticians - Bath 1033,Bath,South West,Shopping Centre,Large
+S1034,Boots Opticians - Bath 1034,Bath,South West,City Centre,Medium
+S1035,Boots Opticians - Bath 1035,Bath,South West,High Street,Medium
+S1036,Boots Opticians - Bournemouth 1036,Bournemouth,South West,City Centre,Large
+S1037,Boots Opticians - Bournemouth 1037,Bournemouth,South West,Shopping Centre,Large
+S1038,Boots Opticians - Bournemouth 1038,Bournemouth,South West,Retail Park,Medium
+S1039,Boots Opticians - Birmingham 1039,Birmingham,Midlands,Shopping Centre,Large
+S1040,Boots Opticians - Birmingham 1040,Birmingham,Midlands,Retail Park,Small
+S1041,Boots Opticians - Birmingham 1041,Birmingham,Midlands,City Centre,Medium
+S1042,Boots Opticians - Nottingham 1042,Nottingham,Midlands,High Street,Small
+S1043,Boots Opticians - Nottingham 1043,Nottingham,Midlands,Retail Park,Small
+S1044,Boots Opticians - Nottingham 1044,Nottingham,Midlands,High Street,Large
+S1045,Boots Opticians - Leicester 1045,Leicester,Midlands,City Centre,Small
+S1046,Boots Opticians - Leicester 1046,Leicester,Midlands,Shopping Centre,Small
+S1047,Boots Opticians - Leicester 1047,Leicester,Midlands,City Centre,Medium
+S1048,Boots Opticians - Coventry 1048,Coventry,Midlands,City Centre,Large
+S1049,Boots Opticians - Coventry 1049,Coventry,Midlands,High Street,Small
+S1050,Boots Opticians - Coventry 1050,Coventry,Midlands,Retail Park,Large
+S1051,Boots Opticians - Derby 1051,Derby,Midlands,City Centre,Large
+S1052,Boots Opticians - Derby 1052,Derby,Midlands,City Centre,Large
+S1053,Boots Opticians - Derby 1053,Derby,Midlands,City Centre,Small
+S1054,Boots Opticians - Manchester 1054,Manchester,North West,City Centre,Medium
+S1055,Boots Opticians - Manchester 1055,Manchester,North West,Shopping Centre,Small
+S1056,Boots Opticians - Manchester 1056,Manchester,North West,Shopping Centre,Small
+S1057,Boots Opticians - Liverpool 1057,Liverpool,North West,Retail Park,Medium
+S1058,Boots Opticians - Liverpool 1058,Liverpool,North West,Retail Park,Medium
+S1059,Boots Opticians - Liverpool 1059,Liverpool,North West,High Street,Large
+S1060,Boots Opticians - Chester 1060,Chester,North West,High Street,Large
+S1061,Boots Opticians - Chester 1061,Chester,North West,Shopping Centre,Small
+S1062,Boots Opticians - Chester 1062,Chester,North West,Retail Park,Medium
+S1063,Boots Opticians - Preston 1063,Preston,North West,City Centre,Medium
+S1064,Boots Opticians - Preston 1064,Preston,North West,High Street,Small
+S1065,Boots Opticians - Preston 1065,Preston,North West,Retail Park,Medium
+S1066,Boots Opticians - Warrington 1066,Warrington,North West,Retail Park,Medium
+S1067,Boots Opticians - Warrington 1067,Warrington,North West,High Street,Medium
+S1068,Boots Opticians - Warrington 1068,Warrington,North West,City Centre,Large
+S1069,Boots Opticians - Leeds 1069,Leeds,Yorkshire,Retail Park,Large
+S1070,Boots Opticians - Leeds 1070,Leeds,Yorkshire,Shopping Centre,Medium
+S1071,Boots Opticians - Leeds 1071,Leeds,Yorkshire,City Centre,Large
+S1072,Boots Opticians - Sheffield 1072,Sheffield,Yorkshire,Shopping Centre,Medium
+S1073,Boots Opticians - Sheffield 1073,Sheffield,Yorkshire,City Centre,Small
+S1074,Boots Opticians - Sheffield 1074,Sheffield,Yorkshire,High Street,Large
+S1075,Boots Opticians - York 1075,York,Yorkshire,City Centre,Large
+S1076,Boots Opticians - York 1076,York,Yorkshire,City Centre,Large
+S1077,Boots Opticians - York 1077,York,Yorkshire,City Centre,Large
+S1078,Boots Opticians - Hull 1078,Hull,Yorkshire,Shopping Centre,Medium
+S1079,Boots Opticians - Hull 1079,Hull,Yorkshire,High Street,Medium
+S1080,Boots Opticians - Hull 1080,Hull,Yorkshire,Retail Park,Small
+S1081,Boots Opticians - Bradford 1081,Bradford,Yorkshire,City Centre,Medium
+S1082,Boots Opticians - Bradford 1082,Bradford,Yorkshire,Shopping Centre,Medium
+S1083,Boots Opticians - Bradford 1083,Bradford,Yorkshire,Shopping Centre,Small
+S1084,Boots Opticians - Newcastle 1084,Newcastle,North East,Shopping Centre,Large
+S1085,Boots Opticians - Newcastle 1085,Newcastle,North East,Shopping Centre,Large
+S1086,Boots Opticians - Newcastle 1086,Newcastle,North East,High Street,Large
+S1087,Boots Opticians - Sunderland 1087,Sunderland,North East,City Centre,Small
+S1088,Boots Opticians - Sunderland 1088,Sunderland,North East,Retail Park,Medium
+S1089,Boots Opticians - Sunderland 1089,Sunderland,North East,Retail Park,Large
+S1090,Boots Opticians - Durham 1090,Durham,North East,City Centre,Medium
+S1091,Boots Opticians - Durham 1091,Durham,North East,City Centre,Large
+S1092,Boots Opticians - Durham 1092,Durham,North East,Shopping Centre,Small
+S1093,Boots Opticians - Middlesbrough 1093,Middlesbrough,North East,Shopping Centre,Medium
+S1094,Boots Opticians - Middlesbrough 1094,Middlesbrough,North East,High Street,Medium
+S1095,Boots Opticians - Middlesbrough 1095,Middlesbrough,North East,High Street,Large
+S1096,Boots Opticians - Glasgow 1096,Glasgow,Scotland,Retail Park,Medium
+S1097,Boots Opticians - Glasgow 1097,Glasgow,Scotland,Retail Park,Medium
+S1098,Boots Opticians - Glasgow 1098,Glasgow,Scotland,City Centre,Large
+S1099,Boots Opticians - Edinburgh 1099,Edinburgh,Scotland,Shopping Centre,Large
+S1100,Boots Opticians - Edinburgh 1100,Edinburgh,Scotland,Shopping Centre,Small
+S1101,Boots Opticians - Edinburgh 1101,Edinburgh,Scotland,Shopping Centre,Small
+S1102,Boots Opticians - Aberdeen 1102,Aberdeen,Scotland,Shopping Centre,Small
+S1103,Boots Opticians - Aberdeen 1103,Aberdeen,Scotland,Shopping Centre,Large
+S1104,Boots Opticians - Aberdeen 1104,Aberdeen,Scotland,City Centre,Small
+S1105,Boots Opticians - Dundee 1105,Dundee,Scotland,Shopping Centre,Small
+S1106,Boots Opticians - Dundee 1106,Dundee,Scotland,Shopping Centre,Small
+S1107,Boots Opticians - Dundee 1107,Dundee,Scotland,City Centre,Medium
+S1108,Boots Opticians - Stirling 1108,Stirling,Scotland,Retail Park,Large
+S1109,Boots Opticians - Stirling 1109,Stirling,Scotland,High Street,Large
+S1110,Boots Opticians - Stirling 1110,Stirling,Scotland,Shopping Centre,Small
+S1111,Boots Opticians - Cardiff 1111,Cardiff,Wales,High Street,Medium
+S1112,Boots Opticians - Cardiff 1112,Cardiff,Wales,Retail Park,Large
+S1113,Boots Opticians - Cardiff 1113,Cardiff,Wales,Retail Park,Large
+S1114,Boots Opticians - Swansea 1114,Swansea,Wales,City Centre,Medium
+S1115,Boots Opticians - Swansea 1115,Swansea,Wales,Retail Park,Large
+S1116,Boots Opticians - Swansea 1116,Swansea,Wales,Shopping Centre,Small
+S1117,Boots Opticians - Newport 1117,Newport,Wales,High Street,Small
+S1118,Boots Opticians - Newport 1118,Newport,Wales,Shopping Centre,Small
+S1119,Boots Opticians - Newport 1119,Newport,Wales,Retail Park,Medium
+S1120,Boots Opticians - Wrexham 1120,Wrexham,Wales,Shopping Centre,Medium
+S1121,Boots Opticians - Wrexham 1121,Wrexham,Wales,High Street,Medium
+S1122,Boots Opticians - Wrexham 1122,Wrexham,Wales,High Street,Medium

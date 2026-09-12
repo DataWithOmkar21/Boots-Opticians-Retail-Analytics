@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Category,Subcategory,Base_Price
+P0001,Core Frames 001,Spectacle Frame,Core Frames,60.27
+P0002,Premium Frames 002,Spectacle Frame,Premium Frames,257.22
+P0003,Single Vision 003,Prescription Lens,Single Vision,50.62
+P0004,Varifocal 004,Prescription Lens,Varifocal,268.2
+P0005,Bifocal 005,Prescription Lens,Bifocal,136.08
+P0006,Prescription Sunglasses 006,Sunglasses,Prescription Sunglasses,127.58
+P0007,Non-Prescription Sunglasses 007,Sunglasses,Non-Prescription Sunglasses,54.13
+P0008,Daily Disposable 008,Contact Lenses,Daily Disposable,44.38
+P0009,Monthly Lenses 009,Contact Lenses,Monthly Lenses,29.38
+P0010,Cleaning Solution 010,Lens Care,Cleaning Solution,23.5
+P0011,Core Frames 011,Spectacle Frame,Core Frames,179.45
+P0012,Premium Frames 012,Spectacle Frame,Premium Frames,234.47
+P0013,Single Vision 013,Prescription Lens,Single Vision,124.77
+P0014,Varifocal 014,Prescription Lens,Varifocal,126.84
+P0015,Bifocal 015,Prescription Lens,Bifocal,242.96
+P0016,Prescription Sunglasses 016,Sunglasses,Prescription Sunglasses,215.4
+P0017,Non-Prescription Sunglasses 017,Sunglasses,Non-Prescription Sunglasses,179.81
+P0018,Daily Disposable 018,Contact Lenses,Daily Disposable,19.14
+P0019,Monthly Lenses 019,Contact Lenses,Monthly Lenses,46.77
+P0020,Cleaning Solution 020,Lens Care,Cleaning Solution,14.81
+P0021,Core Frames 021,Spectacle Frame,Core Frames,265.08
+P0022,Premium Frames 022,Spectacle Frame,Premium Frames,308.67
+P0023,Single Vision 023,Prescription Lens,Single Vision,108.92
+P0024,Varifocal 024,Prescription Lens,Varifocal,200.09
+P0025,Bifocal 025,Prescription Lens,Bifocal,136.37
+P0026,Prescription Sunglasses 026,Sunglasses,Prescription Sunglasses,225.37
+P0027,Non-Prescription Sunglasses 027,Sunglasses,Non-Prescription Sunglasses,116.2
+P0028,Daily Disposable 028,Contact Lenses,Daily Disposable,16.08
+P0029,Monthly Lenses 029,Contact Lenses,Monthly Lenses,65.45
+P0030,Cleaning Solution 030,Lens Care,Cleaning Solution,22.92
+P0031,Core Frames 031,Spectacle Frame,Core Frames,73.66
+P0032,Premium Frames 032,Spectacle Frame,Premium Frames,302.83
+P0033,Single Vision 033,Prescription Lens,Single Vision,59.66
+P0034,Varifocal 034,Prescription Lens,Varifocal,321.67
+P0035,Bifocal 035,Prescription Lens,Bifocal,127.81
+P0036,Prescription Sunglasses 036,Sunglasses,Prescription Sunglasses,261.45
+P0037,Non-Prescription Sunglasses 037,Sunglasses,Non-Prescription Sunglasses,169.49
+P0038,Daily Disposable 038,Contact Lenses,Daily Disposable,53.43
+P0039,Monthly Lenses 039,Contact Lenses,Monthly Lenses,25.93
+P0040,Cleaning Solution 040,Lens Care,Cleaning Solution,23.32
+P0041,Core Frames 041,Spectacle Frame,Core Frames,95.25
+P0042,Premium Frames 042,Spectacle Frame,Premium Frames,132.35
+P0043,Single Vision 043,Prescription Lens,Single Vision,119.91
+P0044,Varifocal 044,Prescription Lens,Varifocal,231.28
+P0045,Bifocal 045,Prescription Lens,Bifocal,221.06
+P0046,Prescription Sunglasses 046,Sunglasses,Prescription Sunglasses,300.15
+P0047,Non-Prescription Sunglasses 047,Sunglasses,Non-Prescription Sunglasses,93.67
+P0048,Daily Disposable 048,Contact Lenses,Daily Disposable,62.64
+P0049,Monthly Lenses 049,Contact Lenses,Monthly Lenses,36.0
+P0050,Cleaning Solution 050,Lens Care,Cleaning Solution,15.3
+P0051,Core Frames 051,Spectacle Frame,Core Frames,101.43
+P0052,Premium Frames 052,Spectacle Frame,Premium Frames,428.89
+P0053,Single Vision 053,Prescription Lens,Single Vision,67.22
+P0054,Varifocal 054,Prescription Lens,Varifocal,133.47
+P0055,Bifocal 055,Prescription Lens,Bifocal,153.97
+P0056,Prescription Sunglasses 056,Sunglasses,Prescription Sunglasses,348.02
+P0057,Non-Prescription Sunglasses 057,Sunglasses,Non-Prescription Sunglasses,199.96
+P0058,Daily Disposable 058,Contact Lenses,Daily Disposable,52.43
+P0059,Monthly Lenses 059,Contact Lenses,Monthly Lenses,68.99
+P0060,Cleaning Solution 060,Lens Care,Cleaning Solution,22.87
+P0061,Core Frames 061,Spectacle Frame,Core Frames,164.53
+P0062,Premium Frames 062,Spectacle Frame,Premium Frames,224.26
+P0063,Single Vision 063,Prescription Lens,Single Vision,149.22
+P0064,Varifocal 064,Prescription Lens,Varifocal,318.5
+P0065,Bifocal 065,Prescription Lens,Bifocal,143.52
+P0066,Prescription Sunglasses 066,Sunglasses,Prescription Sunglasses,114.56
+P0067,Non-Prescription Sunglasses 067,Sunglasses,Non-Prescription Sunglasses,173.16
+P0068,Daily Disposable 068,Contact Lenses,Daily Disposable,28.12
+P0069,Monthly Lenses 069,Contact Lenses,Monthly Lenses,71.52
+P0070,Cleaning Solution 070,Lens Care,Cleaning Solution,9.82
+P0071,Core Frames 071,Spectacle Frame,Core Frames,69.46
+P0072,Premium Frames 072,Spectacle Frame,Premium Frames,394.27
+P0073,Single Vision 073,Prescription Lens,Single Vision,65.69
+P0074,Varifocal 074,Prescription Lens,Varifocal,173.78
+P0075,Bifocal 075,Prescription Lens,Bifocal,181.9
+P0076,Prescription Sunglasses 076,Sunglasses,Prescription Sunglasses,317.39
+P0077,Non-Prescription Sunglasses 077,Sunglasses,Non-Prescription Sunglasses,71.34
+P0078,Daily Disposable 078,Contact Lenses,Daily Disposable,30.52
+P0079,Monthly Lenses 079,Contact Lenses,Monthly Lenses,62.76
+P0080,Cleaning Solution 080,Lens Care,Cleaning Solution,24.44
+P0081,Core Frames 081,Spectacle Frame,Core Frames,160.18
+P0082,Premium Frames 082,Spectacle Frame,Premium Frames,167.49
+P0083,Single Vision 083,Prescription Lens,Single Vision,46.88
+P0084,Varifocal 084,Prescription Lens,Varifocal,188.9
+P0085,Bifocal 085,Prescription Lens,Bifocal,102.41
+P0086,Prescription Sunglasses 086,Sunglasses,Prescription Sunglasses,266.19
+P0087,Non-Prescription Sunglasses 087,Sunglasses,Non-Prescription Sunglasses,57.54
+P0088,Daily Disposable 088,Contact Lenses,Daily Disposable,40.32
+P0089,Monthly Lenses 089,Contact Lenses,Monthly Lenses,58.18
+P0090,Cleaning Solution 090,Lens Care,Cleaning Solution,16.62
+P0091,Core Frames 091,Spectacle Frame,Core Frames,87.95
+P0092,Premium Frames 092,Spectacle Frame,Premium Frames,385.36
+P0093,Single Vision 093,Prescription Lens,Single Vision,141.58
+P0094,Varifocal 094,Prescription Lens,Varifocal,341.7
+P0095,Bifocal 095,Prescription Lens,Bifocal,102.28
+P0096,Prescription Sunglasses 096,Sunglasses,Prescription Sunglasses,122.18
+P0097,Non-Prescription Sunglasses 097,Sunglasses,Non-Prescription Sunglasses,206.6
+P0098,Daily Disposable 098,Contact Lenses,Daily Disposable,34.88
+P0099,Monthly Lenses 099,Contact Lenses,Monthly Lenses,36.55
+P0100,Cleaning Solution 100,Lens Care,Cleaning Solution,14.77
+P0101,Core Frames 101,Spectacle Frame,Core Frames,199.09
+P0102,Premium Frames 102,Spectacle Frame,Premium Frames,435.36
+P0103,Single Vision 103,Prescription Lens,Single Vision,83.67
+P0104,Varifocal 104,Prescription Lens,Varifocal,397.44
+P0105,Bifocal 105,Prescription Lens,Bifocal,84.23
+P0106,Prescription Sunglasses 106,Sunglasses,Prescription Sunglasses,234.35
+P0107,Non-Prescription Sunglasses 107,Sunglasses,Non-Prescription Sunglasses,152.29
+P0108,Daily Disposable 108,Contact Lenses,Daily Disposable,20.29
+P0109,Monthly Lenses 109,Contact Lenses,Monthly Lenses,27.72
+P0110,Cleaning Solution 110,Lens Care,Cleaning Solution,13.38
+P0111,Core Frames 111,Spectacle Frame,Core Frames,271.9
+P0112,Premium Frames 112,Spectacle Frame,Premium Frames,316.69
+P0113,Single Vision 113,Prescription Lens,Single Vision,170.96
+P0114,Varifocal 114,Prescription Lens,Varifocal,361.31
+P0115,Bifocal 115,Prescription Lens,Bifocal,159.45
+P0116,Prescription Sunglasses 116,Sunglasses,Prescription Sunglasses,294.04
+P0117,Non-Prescription Sunglasses 117,Sunglasses,Non-Prescription Sunglasses,38.3
+P0118,Daily Disposable 118,Contact Lenses,Daily Disposable,20.46
+P0119,Monthly Lenses 119,Contact Lenses,Monthly Lenses,65.62
+P0120,Cleaning Solution 120,Lens Care,Cleaning Solution,20.94
+P0121,Core Frames 121,Spectacle Frame,Core Frames,95.83
+P0122,Premium Frames 122,Spectacle Frame,Premium Frames,295.15
+P0123,Single Vision 123,Prescription Lens,Single Vision,126.81
+P0124,Varifocal 124,Prescription Lens,Varifocal,380.32
+P0125,Bifocal 125,Prescription Lens,Bifocal,182.53
+P0126,Prescription Sunglasses 126,Sunglasses,Prescription Sunglasses,197.27
+P0127,Non-Prescription Sunglasses 127,Sunglasses,Non-Prescription Sunglasses,104.22
+P0128,Daily Disposable 128,Contact Lenses,Daily Disposable,36.29
+P0129,Monthly Lenses 129,Contact Lenses,Monthly Lenses,55.86
+P0130,Cleaning Solution 130,Lens Care,Cleaning Solution,22.35
+P0131,Core Frames 131,Spectacle Frame,Core Frames,148.94
+P0132,Premium Frames 132,Spectacle Frame,Premium Frames,201.79
+P0133,Single Vision 133,Prescription Lens,Single Vision,76.95
+P0134,Varifocal 134,Prescription Lens,Varifocal,343.8
+P0135,Bifocal 135,Prescription Lens,Bifocal,218.82
+P0136,Prescription Sunglasses 136,Sunglasses,Prescription Sunglasses,117.37
+P0137,Non-Prescription Sunglasses 137,Sunglasses,Non-Prescription Sunglasses,47.31
+P0138,Daily Disposable 138,Contact Lenses,Daily Disposable,44.72
+P0139,Monthly Lenses 139,Contact Lenses,Monthly Lenses,28.04
+P0140,Cleaning Solution 140,Lens Care,Cleaning Solution,21.49
+P0141,Core Frames 141,Spectacle Frame,Core Frames,114.48
+P0142,Premium Frames 142,Spectacle Frame,Premium Frames,167.48
+P0143,Single Vision 143,Prescription Lens,Single Vision,169.33
+P0144,Varifocal 144,Prescription Lens,Varifocal,169.66
+P0145,Bifocal 145,Prescription Lens,Bifocal,128.4
+P0146,Prescription Sunglasses 146,Sunglasses,Prescription Sunglasses,129.94
+P0147,Non-Prescription Sunglasses 147,Sunglasses,Non-Prescription Sunglasses,56.37
+P0148,Daily Disposable 148,Contact Lenses,Daily Disposable,16.06
+P0149,Monthly Lenses 149,Contact Lenses,Monthly Lenses,23.05
+P0150,Cleaning Solution 150,Lens Care,Cleaning Solution,8.49
+P0151,Core Frames 151,Spectacle Frame,Core Frames,52.81
+P0152,Premium Frames 152,Spectacle Frame,Premium Frames,315.08
+P0153,Single Vision 153,Prescription Lens,Single Vision,136.9
+P0154,Varifocal 154,Prescription Lens,Varifocal,238.09
+P0155,Bifocal 155,Prescription Lens,Bifocal,134.06
+P0156,Prescription Sunglasses 156,Sunglasses,Prescription Sunglasses,221.18
+P0157,Non-Prescription Sunglasses 157,Sunglasses,Non-Prescription Sunglasses,196.88
+P0158,Daily Disposable 158,Contact Lenses,Daily Disposable,57.56
+P0159,Monthly Lenses 159,Contact Lenses,Monthly Lenses,22.39
+P0160,Cleaning Solution 160,Lens Care,Cleaning Solution,8.63
+P0161,Core Frames 161,Spectacle Frame,Core Frames,96.82
+P0162,Premium Frames 162,Spectacle Frame,Premium Frames,202.3
+P0163,Single Vision 163,Prescription Lens,Single Vision,122.12
+P0164,Varifocal 164,Prescription Lens,Varifocal,244.88
+P0165,Bifocal 165,Prescription Lens,Bifocal,88.37
+P0166,Prescription Sunglasses 166,Sunglasses,Prescription Sunglasses,187.14
+P0167,Non-Prescription Sunglasses 167,Sunglasses,Non-Prescription Sunglasses,131.89
+P0168,Daily Disposable 168,Contact Lenses,Daily Disposable,20.08
+P0169,Monthly Lenses 169,Contact Lenses,Monthly Lenses,65.84
+P0170,Cleaning Solution 170,Lens Care,Cleaning Solution,6.04
+P0171,Core Frames 171,Spectacle Frame,Core Frames,261.96
+P0172,Premium Frames 172,Spectacle Frame,Premium Frames,152.71
+P0173,Single Vision 173,Prescription Lens,Single Vision,158.88
+P0174,Varifocal 174,Prescription Lens,Varifocal,390.8
+P0175,Bifocal 175,Prescription Lens,Bifocal,246.53
+P0176,Prescription Sunglasses 176,Sunglasses,Prescription Sunglasses,298.53
+P0177,Non-Prescription Sunglasses 177,Sunglasses,Non-Prescription Sunglasses,179.2
+P0178,Daily Disposable 178,Contact Lenses,Daily Disposable,47.12
+P0179,Monthly Lenses 179,Contact Lenses,Monthly Lenses,62.84
+P0180,Cleaning Solution 180,Lens Care,Cleaning Solution,7.69
+P0181,Core Frames 181,Spectacle Frame,Core Frames,168.66
+P0182,Premium Frames 182,Spectacle Frame,Premium Frames,289.69
+P0183,Single Vision 183,Prescription Lens,Single Vision,160.77
+P0184,Varifocal 184,Prescription Lens,Varifocal,258.84
+P0185,Bifocal 185,Prescription Lens,Bifocal,145.47
+P0186,Prescription Sunglasses 186,Sunglasses,Prescription Sunglasses,256.29
+P0187,Non-Prescription Sunglasses 187,Sunglasses,Non-Prescription Sunglasses,84.3
+P0188,Daily Disposable 188,Contact Lenses,Daily Disposable,21.99
+P0189,Monthly Lenses 189,Contact Lenses,Monthly Lenses,46.28
+P0190,Cleaning Solution 190,Lens Care,Cleaning Solution,13.34
+P0191,Core Frames 191,Spectacle Frame,Core Frames,95.82
+P0192,Premium Frames 192,Spectacle Frame,Premium Frames,241.28
+P0193,Single Vision 193,Prescription Lens,Single Vision,94.46
+P0194,Varifocal 194,Prescription Lens,Varifocal,218.25
+P0195,Bifocal 195,Prescription Lens,Bifocal,144.51
+P0196,Prescription Sunglasses 196,Sunglasses,Prescription Sunglasses,268.29
+P0197,Non-Prescription Sunglasses 197,Sunglasses,Non-Prescription Sunglasses,89.92
+P0198,Daily Disposable 198,Contact Lenses,Daily Disposable,62.44
+P0199,Monthly Lenses 199,Contact Lenses,Monthly Lenses,70.4
+P0200,Cleaning Solution 200,Lens Care,Cleaning Solution,14.62
+P0201,Core Frames 201,Spectacle Frame,Core Frames,118.81
+P0202,Premium Frames 202,Spectacle Frame,Premium Frames,296.69
+P0203,Single Vision 203,Prescription Lens,Single Vision,159.56
+P0204,Varifocal 204,Prescription Lens,Varifocal,315.78
+P0205,Bifocal 205,Prescription Lens,Bifocal,216.75
+P0206,Prescription Sunglasses 206,Sunglasses,Prescription Sunglasses,228.51
+P0207,Non-Prescription Sunglasses 207,Sunglasses,Non-Prescription Sunglasses,152.09
+P0208,Daily Disposable 208,Contact Lenses,Daily Disposable,29.41
+P0209,Monthly Lenses 209,Contact Lenses,Monthly Lenses,60.42
+P0210,Cleaning Solution 210,Lens Care,Cleaning Solution,9.05
+P0211,Core Frames 211,Spectacle Frame,Core Frames,206.75
+P0212,Premium Frames 212,Spectacle Frame,Premium Frames,404.04
+P0213,Single Vision 213,Prescription Lens,Single Vision,62.83
+P0214,Varifocal 214,Prescription Lens,Varifocal,304.31
+P0215,Bifocal 215,Prescription Lens,Bifocal,96.17
+P0216,Prescription Sunglasses 216,Sunglasses,Prescription Sunglasses,278.69
+P0217,Non-Prescription Sunglasses 217,Sunglasses,Non-Prescription Sunglasses,50.63
+P0218,Daily Disposable 218,Contact Lenses,Daily Disposable,61.8
+P0219,Monthly Lenses 219,Contact Lenses,Monthly Lenses,27.56
+P0220,Cleaning Solution 220,Lens Care,Cleaning Solution,24.18
+P0221,Core Frames 221,Spectacle Frame,Core Frames,232.21
+P0222,Premium Frames 222,Spectacle Frame,Premium Frames,315.92
+P0223,Single Vision 223,Prescription Lens,Single Vision,150.65
+P0224,Varifocal 224,Prescription Lens,Varifocal,358.53
+P0225,Bifocal 225,Prescription Lens,Bifocal,240.82
+P0226,Prescription Sunglasses 226,Sunglasses,Prescription Sunglasses,155.88
+P0227,Non-Prescription Sunglasses 227,Sunglasses,Non-Prescription Sunglasses,144.16
+P0228,Daily Disposable 228,Contact Lenses,Daily Disposable,19.75
+P0229,Monthly Lenses 229,Contact Lenses,Monthly Lenses,53.89
+P0230,Cleaning Solution 230,Lens Care,Cleaning Solution,8.43
+P0231,Core Frames 231,Spectacle Frame,Core Frames,175.59
+P0232,Premium Frames 232,Spectacle Frame,Premium Frames,308.9
+P0233,Single Vision 233,Prescription Lens,Single Vision,107.91
+P0234,Varifocal 234,Prescription Lens,Varifocal,276.79
+P0235,Bifocal 235,Prescription Lens,Bifocal,209.87
+P0236,Prescription Sunglasses 236,Sunglasses,Prescription Sunglasses,297.8
+P0237,Non-Prescription Sunglasses 237,Sunglasses,Non-Prescription Sunglasses,126.05
+P0238,Daily Disposable 238,Contact Lenses,Daily Disposable,44.98
+P0239,Monthly Lenses 239,Contact Lenses,Monthly Lenses,71.22
+P0240,Cleaning Solution 240,Lens Care,Cleaning Solution,7.39
+P0241,Core Frames 241,Spectacle Frame,Core Frames,68.1
+P0242,Premium Frames 242,Spectacle Frame,Premium Frames,148.94
+P0243,Single Vision 243,Prescription Lens,Single Vision,133.81
+P0244,Varifocal 244,Prescription Lens,Varifocal,245.58
+P0245,Bifocal 245,Prescription Lens,Bifocal,211.63
+P0246,Prescription Sunglasses 246,Sunglasses,Prescription Sunglasses,264.52
+P0247,Non-Prescription Sunglasses 247,Sunglasses,Non-Prescription Sunglasses,96.72
+P0248,Daily Disposable 248,Contact Lenses,Daily Disposable,59.92
+P0249,Monthly Lenses 249,Contact Lenses,Monthly Lenses,61.94
+P0250,Cleaning Solution 250,Lens Care,Cleaning Solution,10.41
+P0251,Core Frames 251,Spectacle Frame,Core Frames,127.41
+P0252,Premium Frames 252,Spectacle Frame,Premium Frames,223.77
+P0253,Single Vision 253,Prescription Lens,Single Vision,66.28
+P0254,Varifocal 254,Prescription Lens,Varifocal,164.34
+P0255,Bifocal 255,Prescription Lens,Bifocal,239.14
+P0256,Prescription Sunglasses 256,Sunglasses,Prescription Sunglasses,203.86
+P0257,Non-Prescription Sunglasses 257,Sunglasses,Non-Prescription Sunglasses,105.91
+P0258,Daily Disposable 258,Contact Lenses,Daily Disposable,51.48
+P0259,Monthly Lenses 259,Contact Lenses,Monthly Lenses,50.41
+P0260,Cleaning Solution 260,Lens Care,Cleaning Solution,23.72
+P0261,Core Frames 261,Spectacle Frame,Core Frames,227.27
+P0262,Premium Frames 262,Spectacle Frame,Premium Frames,278.19
+P0263,Single Vision 263,Prescription Lens,Single Vision,95.81
+P0264,Varifocal 264,Prescription Lens,Varifocal,415.99
+P0265,Bifocal 265,Prescription Lens,Bifocal,202.02
+P0266,Prescription Sunglasses 266,Sunglasses,Prescription Sunglasses,337.31
+P0267,Non-Prescription Sunglasses 267,Sunglasses,Non-Prescription Sunglasses,56.92
+P0268,Daily Disposable 268,Contact Lenses,Daily Disposable,57.53
+P0269,Monthly Lenses 269,Contact Lenses,Monthly Lenses,55.04
+P0270,Cleaning Solution 270,Lens Care,Cleaning Solution,7.44
+P0271,Core Frames 271,Spectacle Frame,Core Frames,181.18
+P0272,Premium Frames 272,Spectacle Frame,Premium Frames,346.41
+P0273,Single Vision 273,Prescription Lens,Single Vision,46.66
+P0274,Varifocal 274,Prescription Lens,Varifocal,256.3
+P0275,Bifocal 275,Prescription Lens,Bifocal,220.32
+P0276,Prescription Sunglasses 276,Sunglasses,Prescription Sunglasses,166.79
+P0277,Non-Prescription Sunglasses 277,Sunglasses,Non-Prescription Sunglasses,119.83
+P0278,Daily Disposable 278,Contact Lenses,Daily Disposable,37.12
+P0279,Monthly Lenses 279,Contact Lenses,Monthly Lenses,36.61
+P0280,Cleaning Solution 280,Lens Care,Cleaning Solution,23.37
+P0281,Core Frames 281,Spectacle Frame,Core Frames,227.51
+P0282,Premium Frames 282,Spectacle Frame,Premium Frames,156.49
+P0283,Single Vision 283,Prescription Lens,Single Vision,179.6
+P0284,Varifocal 284,Prescription Lens,Varifocal,383.76
+P0285,Bifocal 285,Prescription Lens,Bifocal,128.26
+P0286,Prescription Sunglasses 286,Sunglasses,Prescription Sunglasses,307.59
+P0287,Non-Prescription Sunglasses 287,Sunglasses,Non-Prescription Sunglasses,54.69
+P0288,Daily Disposable 288,Contact Lenses,Daily Disposable,64.96
+P0289,Monthly Lenses 289,Contact Lenses,Monthly Lenses,56.61
+P0290,Cleaning Solution 290,Lens Care,Cleaning Solution,18.0
+P0291,Core Frames 291,Spectacle Frame,Core Frames,61.71
+P0292,Premium Frames 292,Spectacle Frame,Premium Frames,416.02
+P0293,Single Vision 293,Prescription Lens,Single Vision,48.91
+P0294,Varifocal 294,Prescription Lens,Varifocal,192.25
+P0295,Bifocal 295,Prescription Lens,Bifocal,104.31
+P0296,Prescription Sunglasses 296,Sunglasses,Prescription Sunglasses,291.96
+P0297,Non-Prescription Sunglasses 297,Sunglasses,Non-Prescription Sunglasses,71.67
+P0298,Daily Disposable 298,Contact Lenses,Daily Disposable,60.53
+P0299,Monthly Lenses 299,Contact Lenses,Monthly Lenses,56.09
+P0300,Cleaning Solution 300,Lens Care,Cleaning Solution,5.72

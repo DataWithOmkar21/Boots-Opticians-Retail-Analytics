@@ -1,0 +1,9 @@
+Service_ID,Service_Name,Typical_Fee
+SV01,Essential Eye Test,0
+SV02,Advanced Eye Test - OCT,50
+SV03,Ultimate Eye Test - OCT + Optomap,75
+SV04,Contact Lens Consultation,0
+SV05,Contact Lens Trial,0
+SV06,Dry Eye Evaluation,0
+SV07,NHS Eye Test,0
+SV08,Dispensing / Collection,0
