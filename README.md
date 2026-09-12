@@ -106,9 +106,9 @@ Boots-Opticians-Retail-Analytics/
 │   └── Boots_Opticians_Analysis.sql
 │
 ├── Screenshots/
-│   ├── Executive Overview.png
-│   ├── Sales & Product-Store Performance.png
-│   └── Appointments & Service Analytics.png
+│   ├── Executive-overview.png.png
+│   ├── Sales & ProductStore Performance.png
+│   └── Appointments & Service Analytics..png
 │
 ├── insights-and-recommendations.md
 └── README.md
@@ -117,5 +117,3 @@ Boots-Opticians-Retail-Analytics/
 ## About
 
 End-to-end data analytics project analyzing optical retail sales, store and regional performance, appointment behavior, and service-to-sale conversion using Python, SQL Server, and Power BI.
-
-
